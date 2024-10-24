@@ -1,0 +1,1 @@
+<?php /**PATH D:\laravel course\systemProject\resources\views/layouts/app.blade.php ENDPATH**/ ?>
